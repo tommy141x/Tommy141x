@@ -62,8 +62,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-  [![Test's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy141x)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Tommy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommy141x&show_icons=true&hide_border=true" />
+ 
 </details>
 
 [website]: https://www.tommy-johnston.com
