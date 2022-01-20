@@ -36,11 +36,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [AngularJS is Dead](https://www.youtube.com/watch?v=y4I_ITZIpxM)
-- [STACKr News Weekly: Web Dev 2022, JS One-Liners, 3d JS](https://www.youtube.com/watch?v=f0O09xYo77A)
-- [STEP BY STEP Create LAYERS for your 10,000 NFT Collection for FREE - Make NFTs in Photoshop or Figma](https://www.youtube.com/watch?v=k72aCI1VyKM)
-- [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
-- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
+- [MY YEAR 2021 | Cinematic Highlight Film](https://www.youtube.com/watch?v=TnlVylo9SAQ)
+- [My Desk Setup | 4K Cinematic](https://www.youtube.com/watch?v=rVYHcyoR0ZM)
+- [2020 Ford Mustang | 4K Cinematic](https://www.youtube.com/watch?v=WvhnVlZ1QGM)
+- [CINEMATIC REEL 2021](https://www.youtube.com/watch?v=SXZ1ku1fSDk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCqWoeIFC7TNTUzqw1FdgvRg)
