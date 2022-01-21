@@ -7,7 +7,7 @@
 
 - 🔭 My latest project: [CAD/MDT System](https://www.youtube.com/watch?v=fcM1ZahYKdo&ab_channel=ripacc)!
 - 🌱 I’m currently learning react-native 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to release more FiveM Scripts [My Tebex](https://tommy141x.tebex.io/)!
 - 🥅 2022 Goals: Build a social media app
 - ⚡ Fun fact: I play FiveM & Osu!
 
