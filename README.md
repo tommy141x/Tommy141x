@@ -7,7 +7,7 @@
 
 - 🔭 My latest project: [CAD/MDT System](https://www.youtube.com/watch?v=fcM1ZahYKdo&ab_channel=ripacc)!
 - 🌱 I’m currently learning react-native 🤣
-- 👯 I’m looking to release more FiveM Scripts: [My Latest FiveM Script](https://forum.cfx.re/t/paid-easy-discord-integration-tool-for-devs/4806569)
+- 👯 I’m looking to release more FiveM Scripts: [My Latest FiveM Script](https://forum.cfx.re/t/paid-ariel-roof-numbers/4808312)
 - 🥅 2022 Goals: Build a social media app
 - ⚡ Fun fact: I play FiveM & Osu!
 
