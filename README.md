@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning react-native 🤣
 - 👯 I’m looking to release more FiveM Scripts: [My Latest FiveM Script](https://forum.cfx.re/t/paid-qbcore-tommys-radio/4899654)
 - 🥅 2022 Goals: Build a social media app
-- ⚡ Fun fact: I play FiveM & Rocket League!
+- ⚡ Fun fact: I play FiveM, Destiny 2, Rocket League, and Osu!
 
 <br />
 
