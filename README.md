@@ -1,6 +1,7 @@
 ### Hi there, I'm Tommy - aka [Tommy141x][website] 👋 
 
 [![Website](https://img.shields.io/website?label=www.tommy-johnston.com&style=for-the-badge&url=https%3A%2F%2Fwww.tommy-johnston.com)](https://www.tommy-johnston.com)
+[![CFX Profile](https://img.shields.io/website?label=CFX%20Profile&style=for-the-badge&url=https://forum.cfx.re/u/tommy141x/summary)](https://forum.cfx.re/u/tommy141x/summary)
 [![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCqWoeIFC7TNTUzqw1FdgvRg?label=MY%20YOUTUBE&style=for-the-badge)](https://www.youtube.com/channel/UCqWoeIFC7TNTUzqw1FdgvRg)
 
 ## I'm a Videographer and Developer
