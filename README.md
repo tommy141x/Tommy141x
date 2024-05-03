@@ -1,22 +1,25 @@
-### Hi there, I'm Tommy - aka [Tommy141x][website] 👋 
+### Hi there, I'm Tommy👋 
 
 [![Website](https://img.shields.io/website?label=www.tommy-johnston.com&style=for-the-badge&url=https%3A%2F%2Fwww.tommy-johnston.com)](https://www.tommy-johnston.com)
-[![CFX Profile](https://img.shields.io/website?label=CFX%20Profile&style=for-the-badge&url=https://forum.cfx.re/u/tommy141x/summary)](https://forum.cfx.re/u/tommy141x/summary)
-[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCqWoeIFC7TNTUzqw1FdgvRg?label=MY%20YOUTUBE&style=for-the-badge)](https://www.youtube.com/channel/UCqWoeIFC7TNTUzqw1FdgvRg)
+[![Tornado Emergency](https://img.shields.io/website?label=Tornado%20Emergency%20Game&style=for-the-badge&url=https%3A%2F%2Ftornadoemergency.net)](https://tornadoemergency.net)
+[![Tommy's Git Repositories](https://img.shields.io/website?label=Tommy's%20Git%20Repositories&style=for-the-badge&url=https%3A%2F%2Fgit.tommy-johnston.com)](https://git.tommy-johnston.com)
 
-## I'm a Videographer and Developer
+My repositories are hosted at [https://git.tommy-johnston.com/](https://git.tommy-johnston.com/).
 
-- 🔭 My latest project: [CAD/MDT System](https://www.youtube.com/watch?v=fcM1ZahYKdo&ab_channel=ripacc)!
-- 🌱 I’m currently learning react-native 🤣
-- 👯 I’m looking to release more FiveM Scripts: [My Latest FiveM Script](https://forum.cfx.re/t/paid-qbcore-tommys-radio/4899654)
-- 🥅 2022 Goals: Build a social media app
-- ⚡ Fun fact: I play FiveM, Destiny 2, Rocket League, and Osu!
+## I'm a Developer and Videographer
+
+- 🔭 My latest project: [Storm Chasing Game in Unreal Engine 5](https://tornadoemergency.net)
+- 🌱 I’m currently learning advanced game design techniques and Unreal Engine optimizations.
+- 👯 I’m looking to collaborate on open-source projects related to game development and Linux.
+- 🥅 2024 Goals: Expand the features and realism of my storm chasing game, contribute to the Unreal Engine community, and improve my skills.
+- ⚡ Fun fact: I love to chase storms virtually and in real life!
 
 <br />
 
+
 ### Languages and Tools:
 
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+<img align="left" alt="Zed" width="26px" src="https://avatars.githubusercontent.com/u/79345384?s=48&v=4" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -26,32 +29,11 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Ubuntu Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [MY YEAR 2021 | Cinematic Highlight Film](https://www.youtube.com/watch?v=TnlVylo9SAQ)
-- [My Desk Setup | 4K Cinematic](https://www.youtube.com/watch?v=rVYHcyoR0ZM)
-- [2020 Ford Mustang | 4K Cinematic](https://www.youtube.com/watch?v=WvhnVlZ1QGM)
-- [CINEMATIC REEL 2021](https://www.youtube.com/watch?v=SXZ1ku1fSDk)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCqWoeIFC7TNTUzqw1FdgvRg)
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Tommy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommy141x&show_icons=true&hide_border=true&theme=dark" />
- 
-</details>
-
-[website]: https://www.tommy-johnston.com
