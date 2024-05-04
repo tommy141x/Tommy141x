@@ -1,7 +1,6 @@
 ### Hi there, I'm Tommy👋 
 
 [![Website](https://img.shields.io/website?label=www.tommy-johnston.com&style=for-the-badge&url=https%3A%2F%2Fwww.tommy-johnston.com)](https://www.tommy-johnston.com)
-[![Tornado Emergency](https://img.shields.io/website?label=Tornado%20Emergency%20Game&style=for-the-badge&url=https%3A%2F%2Ftornadoemergency.net)](https://tornadoemergency.net)
 [![Tommy's Git Repositories](https://img.shields.io/website?label=Tommy's%20Git%20Repositories&style=for-the-badge&url=https%3A%2F%2Fgit.tommy-johnston.com)](https://git.tommy-johnston.com)
 
 My repositories are hosted at [https://git.tommy-johnston.com/](https://git.tommy-johnston.com/).
@@ -28,11 +27,9 @@ My repositories are hosted at [https://git.tommy-johnston.com/](https://git.tomm
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Ubuntu Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 
