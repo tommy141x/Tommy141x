@@ -1,9 +1,6 @@
 ### Hi there, I'm Tommy👋 
 
 [![Website](https://img.shields.io/website?label=www.tommy-johnston.com&style=for-the-badge&url=https%3A%2F%2Fwww.tommy-johnston.com)](https://www.tommy-johnston.com)
-[![Tommy's Git Repositories](https://img.shields.io/website?label=Tommy's%20Git%20Repositories&style=for-the-badge&url=https%3A%2F%2Fgit.tommy-johnston.com)](https://git.tommy-johnston.com)
-
-My repositories are hosted at [https://git.tommy-johnston.com/](https://git.tommy-johnston.com/).
 
 ## I'm a Developer and Videographer
 
