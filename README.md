@@ -22,9 +22,9 @@
 <a href="https://zed.dev"><img align="left" alt="Zed" width="26px" src="https://avatars.githubusercontent.com/u/79345384?s=48&v=4" /></a>
 <a href="https://www.solidjs.com"><img align="left" alt="SolidJS" width="26px" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" /></a>
 <a href="https://react.dev"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://tailwindcss.com"><img align="left" alt="TailwindCSS" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" /></a>
 <a href="https://www.typescriptlang.org"><img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="https://tailwindcss.com"><img align="left" alt="TailwindCSS" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" /></a>
 <a href="https://bun.sh"><img align="left" alt="BunJS" width="26px" src="https://raw.githubusercontent.com/github/explore/b1184684a8f1e07c7075044f13d5500c0bc3ec04/topics/bun/bun.png" /></a>
 <a href="https://nodejs.org"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="https://appwrite.io"><img align="left" alt="Appwrite" width="26px" src="https://raw.githubusercontent.com/github/explore/b943d5d671b2c6bc956d601746139b1d724658bd/topics/appwrite/appwrite.png" /></a>
